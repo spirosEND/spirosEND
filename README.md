@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming , technology and developing.
 - 🌱 I’m currently coding....
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : FB: Spiros Vatikiotis | IG: spirosend | Linkedin: in/svatikiotis
+- 📫 How to reach me : | IG: spirosend | Linkedin: in/svatikiotis
 - 🌍 Location : Athens, Greece.
 
 <!---
