@@ -1,6 +1,6 @@
-- 👋 Hello, World!  I’m Spiros Vatikiotis.
-- 👀 I’m interested in programming , technology and developing.
-- 🌱 I’m currently coding....
+- 👋 Hello, World!  I’m Spiros..
+- 👀 I’m interested in programming , technology and software developement
+- 🌱 I’m currently eating....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : | IG: spirosend | Linkedin: in/svatikiotis
 - 🌍 Location : Athens, Greece.
