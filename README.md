@@ -1,4 +1,4 @@
-<h1 align="center">Hi Hello, World! 🤘, I'm Spiros</h1>
+<h1 align="center">Hello, World! 🤘, I'm Spiros</h1>
 <h3 align="center">A Software Dev from ATHENS, GR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spirosend&label=Profile%20views&color=0e75b6&style=flat" alt="spirosend" /> </p>
