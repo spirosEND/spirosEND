@@ -1,4 +1,4 @@
-<h1 align="left">Hello, World! 🤘</h1>
+<h1 align="left">🤘Hello, World!🌍</h1>
 <h1 align="left">🛹 Spiros Vatikiotis</h1>
 <h3 align="left"><code style="color: green;">Digital Craftmanship</code></h3>
 <p align="left">I’m a Software Engineer based in Athens, GR, with a strong background in IT operations and technical support, now specializing in software development and cloud-native solutions. I’m skilled in Java, relational databases, data analysis, and Power BI visualization, focusing on seamless back-end integration across enterprise IT systems. Experienced in managing cloud deployments, Kubernetes environments, and automation tools to enhance scalability and efficiency. I’ve designed and implemented ECM applications, workflow automation, and regulatory compliance systems, and I’m adept at developing Spring Boot/React applications and microservices using MongoDB, Bonita, and Alfresco. With strong leadership and process optimization experience, I ensure high-quality service delivery and operational excellence. </p>
