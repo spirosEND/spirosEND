@@ -31,9 +31,9 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="30"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="30"/></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="30"/></a>
-
-
-
+<br>
+  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=spirosEND&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="spirosEND's GitHub Stats" />
 
 
 
