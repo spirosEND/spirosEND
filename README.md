@@ -33,7 +33,7 @@
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="30"/></a>
 <h3>Spread some caffeine</h3>
 <p align="left">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="[_blank](https://buymeacoffee.com/spirosfwiwc)">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="https://buymeacoffee.com/spirosfwiwc">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" />
   </a>
 </p>
