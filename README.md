@@ -1,5 +1,4 @@
 <h1 align="left">🤘Hello, World!🌍</h1>
-<h1 align="left">🛹 spirosEND 🏒</h1>
 
 <p align="left">I’m a Full-Stack Software Engineer with expertise in enterprise integration, cloud-native development, and identity management. Skilled in Spring Boot, React, Java, Kubernetes, and identity management services (WSO2, Keycloak) delivering scalable microservices and automated workflow solutions. Proven ability to design and implement enterprise content management systems, build secure user management APIs, and optimize data analytics platforms with Power BI and Grafana. Experienced in regulatory compliance, AML programs, and agile methodologies. Committed to driving digital transformation through innovative software and cross-functional collaboration.excellence. </p>
 
