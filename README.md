@@ -9,15 +9,7 @@ Always learning. Always shipping. 🚀.
 
 ### 🔗 Let's connect:
 
-<table>
-  <tr>
-    <td><a href="https://dev.to/spirosendgr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" /></a></td>
-    <td><a href="https://linkedin.com/in/svatikiotis"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" /></a></td>
-    <td><a href="https://stackoverflow.com/users/22558020"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" /></a></td>
-    <td><a href="https://fb.com/svatikiotis"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" /></a></td>
-    <td><a href="https://instagram.com/spirosend"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" /></a></td>
-  </tr>
-</table>
+<a href="https://dev.to/spirosendgr"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/svatikiotis"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/22558020"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://fb.com/svatikiotis"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="30" /></a>&nbsp;&nbsp;<a href="https://instagram.com/spirosend"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" /></a>
 
 ### 🛠️ Languages and Industry Tools:
 
