@@ -21,25 +21,4 @@ Always learning. Always shipping. 🚀.
 
 ### 🛠️ Languages and Industry Tools:
 
-<table>
-  <tr>
-    <td><a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="30" /></a></td>
-    <td><a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="30" /></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" height="30" /></a></td>
-    <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="30" /></a></td>
-    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" height="30" /></a></td>
-    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="30" /></a></td>
-    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="30" /></a></td>
-    <td><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="30" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="K8s" height="30" /></a></td>
-    <td><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="30" /></a></td>
-    <td><a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" height="30" /></a></td>
-    <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongo" height="30" /></a></td>
-    <td><a href="https://mariadb.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" height="30" /></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30" /></a></td>
-    <td><a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="30" /></a></td>
-    <td><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="30" /></a></td>
-  </tr>
-</table>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,js,react,ts,html,css,docker,kubernetes,aws,azure,mongodb,mysql,git,linux" /></a>
