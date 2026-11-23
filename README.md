@@ -1,6 +1,10 @@
-<h1 align="left">🤘Hello, World!🌍</h1>
+```bash
+$ whoami
+spiros — software engineer @ athens, gr
 
-Software Engineer based in Athens, Greece! Tech enthusiast building at the edge of software and AI.
-Fueled by curiosity, coffεε, love for video games, computers, space, and ice hockey.
-Always learning. Always shipping. 🚀.
+$ cat focus.txt
+backend · cloud · ai agents
 
+$ cat fuel.txt
+coffεε, video games, space, ice hockey
+```
